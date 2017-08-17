@@ -36,35 +36,39 @@
 
 #### layout
 
-<kbd>1200 :doughnut:</kbd>
-![](images/1750+.png)
+<kbd>1750 :doughnut:</kbd>
+![](public/images/1750+.png)
 
-<kbd>1200 :doughnut:</kbd>
-![](images/1200+.png)
+<kbd>950 :doughnut:</kbd>         
+![](public/images/950+.png)
 
-<kbd>950 :doughnut:</kbd>
-![](images/950+.png)
+<kbd>815 :doughnut:</kbd>    
 
-<kbd>815 :doughnut:</kbd>
-![](images/815+.png)
+![](public/images/815+.png)
 
-<kbd>575-top :doughnut:</kbd>
-![](images/575-top.png)
+<kbd>575-top :doughnut:</kbd>   
 
-<kbd>575-bottom :doughnut:</kbd>
-![](images/575-bottom.png)
+![](public/images/575-top.png)
 
-<kbd>414-top :doughnut:</kbd>
-![](images/414-top.png)
+<kbd>575-bottom :doughnut:</kbd>   
 
-<kbd>414-bottom :doughnut:</kbd>
-![](images/414-bottom.png)
+![](public/images/575-bottom.png)
 
-<kbd>375-top :doughnut:</kbd>
-![](images/375-top.png)
+<kbd>414-top :doughnut:</kbd>   
 
-<kbd>375-bottom :doughnut:</kbd>
-![](images/375-bottom.png)
+![](public/images/414-top.png)
+
+<kbd>414-bottom :doughnut:</kbd>   
+
+![](public/images/414-bottom.png)
+
+<kbd>375-top :doughnut:</kbd>   
+
+![](public/images/375-top.png)
+
+<kbd>375-bottom :doughnut:</kbd>   
+
+![](public/images/375-bottom.png)
 
 
 
