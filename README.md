@@ -32,6 +32,15 @@
 
    + a new built-in date object using getFullYear method to get year,
      it then inserts year to the footer
+     
+- added function - (forgot to remove footer frame(fixed-container) class when under 1300px)
+  - media query would've been the right approach
+  - js:
+   +  added an event listener that calls a function on a window-resize evt
+   +  function first checks that window's width it's a number, then it removes a class when
+      under 1300, and adds it if over 1300.
+      
+      
 
 
 #### layout
