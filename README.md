@@ -39,7 +39,7 @@
 <kbd>1750 :doughnut:</kbd>
 ![](public/images/1750+.png)
 
-<kbd>950 :doughnut:</kbd>
+<kbd>950 :doughnut:</kbd>         
 ![](public/images/950+.png)
 
 <kbd>815 :doughnut:</kbd>
